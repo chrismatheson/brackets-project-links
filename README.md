@@ -1,4 +1,4 @@
-brackets-project-links
+Project-links: [brackets](https://github.com/adobe/brackets) extension
 ======================
 
 Project Links extension for Brackets 
