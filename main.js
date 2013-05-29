@@ -12,7 +12,7 @@ define(function (require, exports, module) {
 
     //read in project prefs from various sources
     //DocumentManger.getDocumentForPath()
-    FileUtils.readAsText()
+    //FileUtils.readAsText()
     
     /**
      *  @type {array}
