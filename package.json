@@ -1,0 +1,12 @@
+{
+    "name": "ProjectLinks",
+    "title": "Project Links",
+    "description": "Add some links to your sidebar for each project. Documentation, API ref etc etc",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Chris Matheson <@chrismatheson> (http://your.url)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
